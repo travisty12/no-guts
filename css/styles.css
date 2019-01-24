@@ -1,0 +1,37 @@
+#collect1 {
+  width: 150px;
+  /* height: 75px; */
+}
+
+#upgrade-tab, #main-tab {
+  width: 100px;
+}
+
+#rate-well, #shovs, #dozers {
+  width: 200px;
+}
+
+#guts-well {
+  width: 100px;
+  /* height: 50px; */
+}
+
+#counter, #collect-btn {
+  margin: 0px;
+}
+
+#shop-main, #main-tab, #shovs, #dozers {
+  display: none;
+}
+
+#collect2, #collect3 {
+  display: none;
+}
+
+body {
+  text-align: center;
+}
+
+.well {
+  padding: 5px;
+}
